@@ -1,5 +1,5 @@
-Vscan uses camera to scan products and detect text in pictures of product ingredient list. No pictures are stored or sent to anyone.
-Camera permission must be given by the user for the app to take pictures wich means the user consent is required. If consent to use camera is revoked the app will no longer be able to use camera.
-Vscan doesn't collect any user data. It only collects product and ingredient data when voluntarily provided by the user.
-This data is only used to determine if a product is vegan or not. This data can not be removed from our database as it is completely anonymous and is not about the user.
-Some pictures can be temporarily stored in order to be edited by the user but are deleted when the app is closed if not before.
+Vscan uses camera to scan products and detect text in pictures of product's ingredient list. No pictures are stored or sent to anyone.
+Camera permission must be given by the user for the app to take pictures wich means the user consent is required. If consent to use camera is revoked the application will no longer be able to use camera.
+Vscan does not collect any user data. It only collects product and ingredient data when voluntarily provided by the user.
+This data is only used to determine if a product is vegan or not. This data can not be removed from our database because it is completely anonymous and does not concern the user.
+Some pictures may be temporarily stored in order to be edited by the user but are deleted when the app is closed, if not before.
